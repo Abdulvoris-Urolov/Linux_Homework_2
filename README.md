@@ -2,8 +2,7 @@
 
 ### 🔰Task 2.1
 
-- **ping**  *buyrug'ini ishlatilishi :)*
-  ![ping](image/ping.jpg)
+  -
 
 ### 🔰Task 2.2
 
