@@ -2,7 +2,7 @@
 
 ### 🔰Task 2.1
 
-  -
+  - 
 
 ### 🔰Task 2.2
 
@@ -31,11 +31,17 @@
 
 -  **\*** - bu buyruq ishlatilgan  joyda shuni tushunishimiz mumkinki u joydagi hamma narsani belgilab uni uni ustida amal bajarishimizni bildiradi.
 
-- **?** - bu buyruq 
+- **?** - bu buyruq o'zidan keyingi kelgab belgi larni istalgancha ishlatilishini bildiradi.  
 
 - **[....]** - bu buyruq qavslar orasidagi istalgan belgi, raqamlar yozish mumkinligini bildiradi.
 
 ### 🔰Task 2.5
+
+ - **<** - bu buyruq mavjud fayldagi ma'lumotlarni yangi faylga kiritish uchun ishlatiladi.
+ - **>** - bu buyruq mavjud fayl yoki bazadagi ma'lumotlarni yangi faylga chiqarib olish uchun ishlatiladi.
+ - **2>** - bu buyruq
+ - **&>** - bu buyruq
+ - **>>** - bu buyruq ichida ma'lumoti bor faylni ichiga yana boshqa fayldan qo'shimcha narsani yana yuklash imkoniyatini beradi.
 ### 🔰Task 2.6
 
 ### 🔰Task 2.7
